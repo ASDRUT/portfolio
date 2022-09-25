@@ -1,5 +1,5 @@
 # Привет меня зовут Макс
-![Это Я]([/путь/к/изображению.jpg](https://drive.google.com/file/d/1R_j_isgbeZHYZpMTt5IhxscAumFqtTWD/view?usp=sharing) "это я")
+![Это я](https://drive.google.com/file/d/1R_j_isgbeZHYZpMTt5IhxscAumFqtTWD/view?usp=sharing "Подсказка")
 
 Мой путь в тестирование начался в 2022 году. И это лучшый шаг сделаный за 32 года в моей жизни! 
 Раньше как и многие ни когда не был связан с IT профессией, но всегда был уверенным пользователем. 
